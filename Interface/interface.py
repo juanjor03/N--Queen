@@ -1,5 +1,4 @@
 from sprites import *
-import csv
 import sys
 import time
 
